@@ -1,5 +1,5 @@
 # Linux Commands : 101
-![](http://up.sofianehamlaoui.fr/lc.png)
+![](http://up.sofianehamlaoui.fr/lc_101.png)
 
 ### Table of Contents
 
